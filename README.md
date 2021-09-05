@@ -5,7 +5,7 @@ Made it during ETG ML/AI internship
 1. I've used JSON file system.
 2. New inventory can be added
 3. Purchase can be made and recorded
-## Added 5 features per product
+## Added 4 features per product
 1.Name
 2.Quantity
 3.Price
